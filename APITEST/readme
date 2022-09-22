@@ -1,0 +1,3 @@
+1)Goto the APITest.java file inside the package name as src/test/java/com/test and right click on 
+APITest.java file AND Click on Run As ->TestNG Test
+2)Included required dependencies/libraries in pom.xml 
